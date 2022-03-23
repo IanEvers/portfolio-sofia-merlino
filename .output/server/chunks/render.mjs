@@ -527,7 +527,7 @@ const htmlTemplate = (params) => `<!DOCTYPE html>
 </html>
 `;
 
-const STATIC_ASSETS_BASE = "C:/Users/Ian/Desktop/Código/portfolio-sofia-merlino/dist" + "/" + "1648005279";
+const STATIC_ASSETS_BASE = "C:/Users/Ian/Desktop/Código/portfolio-sofia-merlino/dist" + "/" + "1648024269";
 const PAYLOAD_JS = "/payload.js";
 const getClientManifest = cachedImport(() => import('./client.manifest.mjs'));
 const getSSRApp = cachedImport(() => import('./server.mjs'));
