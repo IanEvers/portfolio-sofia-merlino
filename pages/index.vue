@@ -40,7 +40,6 @@
  
 export default {
   layout: 'default',
-  name: 'blog',
 };
 
 </script>
