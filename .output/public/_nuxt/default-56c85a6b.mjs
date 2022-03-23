@@ -1,1 +1,0 @@
-import s from"./Header-0fe46d43.mjs";import{_ as a,c as r,a as _,f as n,b as e,o as c}from"./bootstrap-9e0ebd8e.mjs";const d={},l={class:"contenedor"},f=e("div",{class:"hrVertical"},null,-1),i=e("hr",{class:"hrHeader"},null,-1);function u(t,m){const o=s;return c(),r("div",l,[f,_(o),i,n(t.$slots,"default")])}var v=a(d,[["render",u]]);export{v as default};

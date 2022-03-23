@@ -1,0 +1,1 @@
+import s from"./Header-7387cfd4.mjs";import{_ as a,c as r,a as _,f as c,b as e,o as n}from"./bootstrap-cf95a19e.mjs";const d={},l={class:"contenedor"},f=e("div",{class:"hrVertical"},null,-1),i=e("hr",{class:"hrHeader"},null,-1);function u(t,m){const o=s;return n(),r("div",l,[f,_(o),i,c(t.$slots,"default")])}var v=a(d,[["render",u]]);export{v as default};

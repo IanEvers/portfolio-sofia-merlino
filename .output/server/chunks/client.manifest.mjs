@@ -1,14 +1,14 @@
 const client_manifest = {
   "node_modules/nuxt3/dist/app/entry.mjs": {
-    "file": "entry-1d25ca7f.mjs",
+    "file": "entry-faf78ee2.mjs",
     "src": "node_modules/nuxt3/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
-      "_bootstrap-9e0ebd8e.mjs"
+      "_bootstrap-cf95a19e.mjs"
     ]
   },
-  "_bootstrap-9e0ebd8e.mjs": {
-    "file": "bootstrap-9e0ebd8e.mjs",
+  "_bootstrap-cf95a19e.mjs": {
+    "file": "bootstrap-cf95a19e.mjs",
     "isDynamicEntry": true,
     "dynamicImports": [
       "layouts/default.vue",
@@ -22,23 +22,26 @@ const client_manifest = {
     ]
   },
   "components/Header.vue": {
-    "file": "Header-0fe46d43.mjs",
+    "file": "Header-7387cfd4.mjs",
     "src": "components/Header.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_bootstrap-9e0ebd8e.mjs"
+      "_bootstrap-cf95a19e.mjs"
     ],
     "css": [
-      "assets/Header.a7aec982.css"
+      "assets/Header.43cd44ae.css"
     ],
     "assets": [
       "assets/Afterglow-Regular.ca09c881.ttf"
     ]
   },
   "pages/contacto.vue": {
-    "file": "contacto-bfa03e02.mjs",
+    "file": "contacto-377de860.mjs",
     "src": "pages/contacto.vue",
-    "isDynamicEntry": true
+    "isDynamicEntry": true,
+    "imports": [
+      "_bootstrap-cf95a19e.mjs"
+    ]
   },
   "pages/fotografia.vue": {
     "file": "fotografia-02cc6a6e.mjs",
@@ -56,14 +59,14 @@ const client_manifest = {
     "isDynamicEntry": true
   },
   "pages/index.vue": {
-    "file": "index-d41b241d.mjs",
+    "file": "index-017cbf53.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_bootstrap-9e0ebd8e.mjs"
+      "_bootstrap-cf95a19e.mjs"
     ],
     "css": [
-      "assets/index.9e23a52a.css"
+      "assets/index.af38cad8.css"
     ],
     "assets": [
       "assets/Montserrat-VariableFont_wght.f35fdf51.ttf",
@@ -76,12 +79,12 @@ const client_manifest = {
     "isDynamicEntry": true
   },
   "layouts/default.vue": {
-    "file": "default-56c85a6b.mjs",
+    "file": "default-0b5f354b.mjs",
     "src": "layouts/default.vue",
     "isDynamicEntry": true,
     "imports": [
       "components/Header.vue",
-      "_bootstrap-9e0ebd8e.mjs"
+      "_bootstrap-cf95a19e.mjs"
     ],
     "css": [
       "assets/default.cac745e3.css"
