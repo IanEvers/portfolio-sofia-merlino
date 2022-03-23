@@ -3909,10 +3909,9 @@ const ilustraciones = /* @__PURE__ */ Object.freeze({
   [Symbol.toStringTag]: "Module",
   "default": _sfc_main$2
 });
-const _imports_0 = "/_nuxt/merHero.png";
+const _imports_0 = "merHero.png";
 const _sfc_main$1 = {
-  layout: "default",
-  name: "blog"
+  layout: "default"
 };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
   _push(`<div${serverRenderer.exports.ssrRenderAttrs(vue_cjs_prod.mergeProps({ class: "mLeft" }, _attrs))}><div class="about"><div class="subtituloYFoto"><h2 class="subtituloAbout fondoLila">About me</h2><img${serverRenderer.exports.ssrRenderAttr("src", _imports_0)} alt="Sof\xEDa Merlino"></div><p class="presentacion"> Hola! Soy Sofi, tengo 21 a\xF1os y soy estudiante de Dise\xF1o Industrial en la UBA, actualmente cursando mi tercer a\xF1o. <br> <br> Desde siempre tuve afinidad por el dise\xF1o y el arte en sus diversas expresiones y medios: dibujo, pintura, escultura, escritura, fotograf\xEDa, etc. <br> <br> Me encanta aprender cosas nuevas y constantemente me encuentro haciendo cursos, investigando y practicando para mejorar mis habilidades y ampliar mi conocimiento.<br> <br> En este portfolio podr\xE1n ver gran variedad de proyectos (algunos personales y otros para terceros) en los que estuve involucrada en los \xFAltimos a\xF1os. <br> <br> Estoy buscando seguir creciendo y aprendiendo profesionalmente, as\xED que si te interesa mi trabajo no dudes en contactarme o compartirlo con alguien que creas que le va a gustar :) <br> <br></p></div><footer><div class="hrVerticalFooter"></div><p> contacto </p><div class="hrVerticalFooter"></div></footer></div>`);
