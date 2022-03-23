@@ -5,7 +5,7 @@
     <div class="about">
       <div class="subtituloYFoto">
         <h2 class="subtituloAbout fondoLila">About me</h2>
-        <img src="/merHero.png" alt="Sofía Merlino">
+        <img src="~/assets/merHero.png" alt="Sofía Merlino">
       </div>
 
       <p class="presentacion">
